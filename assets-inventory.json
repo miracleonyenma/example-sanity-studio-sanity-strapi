@@ -1,0 +1,101 @@
+{
+  "generatedAt": "2025-08-28T12:32:29.993Z",
+  "summary": {
+    "totalAssets": 6,
+    "totalImages": 6,
+    "totalFiles": 0,
+    "totalSizeBytes": 9788624
+  },
+  "assets": [
+    {
+      "id": "image-87d44663b620c92e956dbfbd3080a6398589c289-1080x1080-png",
+      "type": "sanity.imageAsset",
+      "filename": "image.png",
+      "url": "https://cdn.sanity.io/images/lhmeratw/production/87d44663b620c92e956dbfbd3080a6398589c289-1080x1080.png",
+      "size": 1232943,
+      "mimeType": "image/png",
+      "extension": "png",
+      "dimensions": {
+        "_type": "sanity.imageDimensions",
+        "aspectRatio": 1,
+        "height": 1080,
+        "width": 1080
+      }
+    },
+    {
+      "id": "image-8bb4a2d05b037e0fe9570d1e504c8dc4cd026d2e-1920x1402-png",
+      "type": "sanity.imageAsset",
+      "filename": "image.png",
+      "url": "https://cdn.sanity.io/images/lhmeratw/production/8bb4a2d05b037e0fe9570d1e504c8dc4cd026d2e-1920x1402.png",
+      "size": 3016512,
+      "mimeType": "image/png",
+      "extension": "png",
+      "dimensions": {
+        "_type": "sanity.imageDimensions",
+        "aspectRatio": 1.369472182596291,
+        "height": 1402,
+        "width": 1920
+      }
+    },
+    {
+      "id": "image-92dba2ee4b3e70d1a6f8e1b5698c2f1c5d23fc19-1200x509-png",
+      "type": "sanity.imageAsset",
+      "filename": "image.png",
+      "url": "https://cdn.sanity.io/images/lhmeratw/production/92dba2ee4b3e70d1a6f8e1b5698c2f1c5d23fc19-1200x509.png",
+      "size": 873953,
+      "mimeType": "image/png",
+      "extension": "png",
+      "dimensions": {
+        "_type": "sanity.imageDimensions",
+        "aspectRatio": 2.357563850687623,
+        "height": 509,
+        "width": 1200
+      }
+    },
+    {
+      "id": "image-a4d5960925c734f30a23acb0a5f246a92a0347d1-1536x1024-png",
+      "type": "sanity.imageAsset",
+      "filename": "image.png",
+      "url": "https://cdn.sanity.io/images/lhmeratw/production/a4d5960925c734f30a23acb0a5f246a92a0347d1-1536x1024.png",
+      "size": 2047692,
+      "mimeType": "image/png",
+      "extension": "png",
+      "dimensions": {
+        "_type": "sanity.imageDimensions",
+        "aspectRatio": 1.5,
+        "height": 1024,
+        "width": 1536
+      }
+    },
+    {
+      "id": "image-bf352ea0b802bb389916f5c7f04850de3e78f24c-1200x500-png",
+      "type": "sanity.imageAsset",
+      "filename": "image.png",
+      "url": "https://cdn.sanity.io/images/lhmeratw/production/bf352ea0b802bb389916f5c7f04850de3e78f24c-1200x500.png",
+      "size": 550426,
+      "mimeType": "image/png",
+      "extension": "png",
+      "dimensions": {
+        "_type": "sanity.imageDimensions",
+        "aspectRatio": 2.4,
+        "height": 500,
+        "width": 1200
+      }
+    },
+    {
+      "id": "image-da8b7749fe606773970cdb711c0a3d5dd7bd7a5a-1024x1536-png",
+      "type": "sanity.imageAsset",
+      "filename": "image.png",
+      "url": "https://cdn.sanity.io/images/lhmeratw/production/da8b7749fe606773970cdb711c0a3d5dd7bd7a5a-1024x1536.png",
+      "size": 2067098,
+      "mimeType": "image/png",
+      "extension": "png",
+      "dimensions": {
+        "_type": "sanity.imageDimensions",
+        "aspectRatio": 0.6666666666666666,
+        "height": 1536,
+        "width": 1024
+      }
+    }
+  ]
+}
