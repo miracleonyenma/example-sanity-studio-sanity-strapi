@@ -1,4 +1,4 @@
-// listSchemas.ts
+// ./listSchemas.ts
 import {createClient} from '@sanity/client'
 import {schemaTypes} from './schemaTypes'
 
