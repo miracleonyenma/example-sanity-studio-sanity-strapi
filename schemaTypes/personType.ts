@@ -31,5 +31,11 @@ export const personType = defineType({
       type: 'image',
       options: {hotspot: true},
     }),
+    defineField({
+      name: 'posts',
+      title: 'Posts',
+      type: 'array',
+      of: [{type: 'reference', to: [{type: 'post'}]}],
+    }),
   ],
 })

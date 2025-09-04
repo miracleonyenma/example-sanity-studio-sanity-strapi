@@ -32,8 +32,8 @@ export const postType = defineType({
       validation: (rule) => rule.min(1).required(),
     }),
     defineField({
-      name: 'categories',
-      title: 'Categories',
+      name: 'category',
+      title: 'Category',
       type: 'array',
       of: [{type: 'reference', to: [{type: 'category'}]}],
     }),
